@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ad21ce-6272-4a26-a9e7-28dfbad608b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java.introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.OOP/.idea/com.module1.OOP.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/com.module1.caseStudy.iml" beforeDir="false" />
@@ -27,14 +24,23 @@
       <change beforePath="$PROJECT_DIR$/../../demoCase/game.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demoCase/image" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demoCase/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -55,6 +61,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RunManager">
+    <configuration name="dataTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataTime" />
+      <module name="java.introduction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dataTime" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1638514698282</updated>
       <workItem from="1638514701801" duration="266000" />
-      <workItem from="1638515313015" duration="353000" />
+      <workItem from="1638515313015" duration="1148000" />
+      <workItem from="1638516561311" duration="884000" />
     </task>
     <servers />
   </component>

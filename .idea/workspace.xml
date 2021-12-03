@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ad21ce-6272-4a26-a9e7-28dfbad608b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/useVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/useOperator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.OOP/.idea/com.module1.OOP.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/com.module1.caseStudy.iml" beforeDir="false" />
@@ -24,9 +24,6 @@
       <change beforePath="$PROJECT_DIR$/../../demoCase/game.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demoCase/image" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demoCase/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java.introduction/dataTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java.introduction/dataTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dataTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataTime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +59,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.useVariable">
+  <component name="RunManager" selected="Application.useOperator">
     <configuration name="dataTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dataTime" />
+      <module name="java.introduction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="useOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="useOperator" />
       <module name="java.introduction" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.useOperator" />
         <item itemvalue="Application.useVariable" />
         <item itemvalue="Application.dataTime" />
       </list>
@@ -94,7 +99,7 @@
       <updated>1638514698282</updated>
       <workItem from="1638514701801" duration="266000" />
       <workItem from="1638515313015" duration="1148000" />
-      <workItem from="1638516561311" duration="3095000" />
+      <workItem from="1638516561311" duration="3905000" />
     </task>
     <servers />
   </component>

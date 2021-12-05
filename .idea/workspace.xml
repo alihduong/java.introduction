@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ad21ce-6272-4a26-a9e7-28dfbad608b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/daysMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BMI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.OOP/.idea/com.module1.OOP.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/com.module1.caseStudy.iml" beforeDir="false" />
@@ -60,9 +60,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.daysMonth">
-    <configuration name="dataTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dataTime" />
+  <component name="RunManager" selected="Application.BMI">
+    <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BMI" />
       <module name="java.introduction" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BMI" />
         <item itemvalue="Application.daysMonth" />
         <item itemvalue="Application.simpleEquation" />
         <item itemvalue="Application.useOperator" />
         <item itemvalue="Application.useVariable" />
-        <item itemvalue="Application.dataTime" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +116,7 @@
       <updated>1638514698282</updated>
       <workItem from="1638514701801" duration="266000" />
       <workItem from="1638515313015" duration="1148000" />
-      <workItem from="1638516561311" duration="7488000" />
+      <workItem from="1638516561311" duration="8452000" />
     </task>
     <servers />
   </component>

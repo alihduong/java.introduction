@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ad21ce-6272-4a26-a9e7-28dfbad608b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intro/baitap/sayHi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/baitap/ChangeMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/intro/baitap/ReadNumberToWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.OOP/.idea/com.module1.OOP.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../com.module1.caseStudy/.idea/com.module1.caseStudy.iml" beforeDir="false" />
@@ -24,6 +25,7 @@
       <change beforePath="$PROJECT_DIR$/../../demoCase/game.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demoCase/image" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../demoCase/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +61,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.sayHi">
+  <component name="RunManager" selected="Application.ChangeMoney">
     <configuration name="BMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BMI" />
       <module name="java.introduction" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="intro.baitap.ChangeMoney" />
+      <module name="java.introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="intro.baitap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,20 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="useOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="useOperator" />
-      <module name="java.introduction" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChangeMoney" />
         <item itemvalue="Application.sayHi" />
         <item itemvalue="Application.BMI" />
         <item itemvalue="Application.daysMonth" />
         <item itemvalue="Application.simpleEquation" />
-        <item itemvalue="Application.useOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +129,7 @@
       <updated>1638514698282</updated>
       <workItem from="1638514701801" duration="266000" />
       <workItem from="1638515313015" duration="1148000" />
-      <workItem from="1638516561311" duration="8642000" />
+      <workItem from="1638516561311" duration="9731000" />
     </task>
     <servers />
   </component>
